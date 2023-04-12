@@ -1,7 +1,5 @@
 <h1>Welcome to my page! </h1> 
 I'm Anna, Data Analytic, currently living in <b> Madeira, Portugal</b>. </p>
-<h3>Things I code with</h3>
-
 
 <h3>Open source projects</h3>
 <table>
@@ -48,5 +46,5 @@ I'm Anna, Data Analytic, currently living in <b> Madeira, Portugal</b>. </p>
 
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Wednesday, 12 April at 17:10 WEST<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Wednesday, 12 April at 17:12 WEST<br /></p>
 
