@@ -1,1 +1,1 @@
-My name is Thomas and today is Wednesday, 12 April at 17:13 CEST.
+My name is Anna and today is Wednesday, 12 April at 16:32 WEST.
