@@ -1,6 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-
-<p>Welcome to my page! </br> 
+<h1>Welcome to my page! </h1> 
 I'm Anna, Data Analytic, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Madeira, Portugal</b>. </p>
 <h3>Things I code with</h3>
 
@@ -55,5 +53,5 @@ I'm Anna, Data Analytic, currently living in <img src="https://cdn-icons-png.fla
 
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Wednesday, 12 April at 17:00 WEST<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Wednesday, 12 April at 17:03 WEST<br /></p>
 
