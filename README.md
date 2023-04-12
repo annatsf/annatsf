@@ -1,11 +1,6 @@
 <h1>Welcome to my page! </h1> 
-I'm Anna, Data Analytic, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Madeira, Portugal</b>. </p>
+I'm Anna, Data Analytic, currently living in <b> Madeira, Portugal</b>. </p>
 <h3>Things I code with</h3>
-
-<p>
-<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
 
 
 <h3>Open source projects</h3>
@@ -53,5 +48,5 @@ I'm Anna, Data Analytic, currently living in <img src="https://cdn-icons-png.fla
 
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Wednesday, 12 April at 17:03 WEST<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Wednesday, 12 April at 17:10 WEST<br /></p>
 
