@@ -36,7 +36,7 @@ I'm Anna, Data Analytic, currently living in <b> Madeira, Portugal</b>. </p>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/annatsf/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
     </tr>	  
     <tr>
-      <td><a href="https://github.com/annatsf/metrocar_funnel_analysis"><b>metrocar_funnel_analysis</b></a></td>
+      <td><a href="https://github.com/annatsf/metrocar"><b>metrocar</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/annatsf/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
     </tr>		
         
