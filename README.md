@@ -7,7 +7,6 @@ I'm Anna, Data Analytic, currently living in <b> Madeira, Portugal</b>. </p>
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
     </tr>
   </thead>
   <tbody>
